@@ -1,2 +1,3 @@
 pyautogui
 elevate
+opencv-python
